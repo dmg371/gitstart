@@ -1,9 +1,6 @@
 <?require_once($_SERVER['DOCUMENT_ROOT']."/bitrix/header.php");
-$APPLICATION->SetTitle("Managed Print Services");?>
-<p>Prevent and manage waste</p>
-<p>Xerox's commitment is to produce waste-free products in waste-free facilities to help our customers reduce waste<br>
-Our aim is to design products, packaging and supplies that make efficient use of resources, minimise waste, reuse material<br>
-where feasible and recycle what can't be reused.
-</p>
+$APPLICATION->SetTitle("Hello Vietnam");?>
+<p>We must stop communism in this land</p>
+<p>Good bye my darling, hello Vietnam</p>
 
 <?require_once($_SERVER['DOCUMENT_ROOT']."/bitrix/footer.php");?>
